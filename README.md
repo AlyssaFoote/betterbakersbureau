@@ -1,2 +1,2 @@
-# business-site
-A site for BUSINESS 
+# better-bakers-bureau
+Best baking recipes on the world wide web
